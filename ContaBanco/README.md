@@ -1,18 +1,22 @@
-## Getting Started
+# Descrição do Desafio
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Ponha em prática os fundamentos da linguagem e noções de regras de estrutura de sintaxe.
 
-## Folder Structure
+Agora é a sua vez de ser o protagonista! Implemente o desafio sugerido pela expert criando um repositório próprio e, com isso, aumentando ainda mais seu portfólio de projetos no GitHub!
 
-The workspace contains two folders by default, where:
+Pré-requisitos:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Lógica de programação e POO;
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Conhecimentos básicos em Java;
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Computador com SO de sua preferência(Windows, Linux, Mac OS);
 
-## Dependency Management
+IDE (Visual Studio Code, Eclipse, etc);
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Slides e GitHub
+A apresentação completa utilizada durante o curso está disponível AQUI
+
+Com isso, você terá acesso ao projeto do Github e links explorados durante as aulas.
+
+Bons estudos wink
